@@ -1,7 +1,6 @@
-node_modules
-dist
-.DS_Store
-.env
+git init
+git remote add origin https://github.com/momaxx/nyamira-energy-dashboard.git
+git add .
+git commit -m "Live dashboard initial version"
+git push -u origin main
 
-# Ignore the output video from Git but not videos you import into src/.
-out
